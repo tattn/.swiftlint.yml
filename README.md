@@ -1,0 +1,3 @@
+.swiftlint.yml
+===
+
